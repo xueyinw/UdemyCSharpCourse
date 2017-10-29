@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         public string Name;
         public int Id;
-        public List<string> Orders;
+        public readonly List<string> Orders;
 
         public Customer()
         {

@@ -6,10 +6,6 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    public class Customer
-    {
-
-    }
 
     class Program
     {
