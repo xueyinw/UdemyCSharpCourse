@@ -4,3 +4,6 @@ C:\Projects\CSharpIntermediate\Section5\Testability\Testability\bin\Debug\Testab
 C:\Projects\CSharpIntermediate\Section5\Testability\Testability\bin\Debug\Testability.pdb
 C:\Projects\CSharpIntermediate\Section5\Testability\Testability\obj\Debug\Testability.exe
 C:\Projects\CSharpIntermediate\Section5\Testability\Testability\obj\Debug\Testability.pdb
+C:\Users\xuewan\UdemyCSharpCourse\CSharpIntermediate\Section5\Testability\Testability\bin\Debug\Testability.exe.config
+C:\Users\xuewan\UdemyCSharpCourse\CSharpIntermediate\Section5\Testability\Testability\obj\Debug\Testability.exe
+C:\Users\xuewan\UdemyCSharpCourse\CSharpIntermediate\Section5\Testability\Testability\obj\Debug\Testability.pdb

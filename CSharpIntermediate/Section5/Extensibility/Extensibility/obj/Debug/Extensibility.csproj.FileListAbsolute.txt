@@ -4,3 +4,6 @@ C:\Projects\CSharpIntermediate\Section5\Extensibility\Extensibility\bin\Debug\Ex
 C:\Projects\CSharpIntermediate\Section5\Extensibility\Extensibility\obj\Debug\Extensibility.csprojResolveAssemblyReference.cache
 C:\Projects\CSharpIntermediate\Section5\Extensibility\Extensibility\obj\Debug\Extensibility.exe
 C:\Projects\CSharpIntermediate\Section5\Extensibility\Extensibility\obj\Debug\Extensibility.pdb
+C:\Users\xuewan\UdemyCSharpCourse\CSharpIntermediate\Section5\Extensibility\Extensibility\bin\Debug\Extensibility.exe.config
+C:\Users\xuewan\UdemyCSharpCourse\CSharpIntermediate\Section5\Extensibility\Extensibility\obj\Debug\Extensibility.exe
+C:\Users\xuewan\UdemyCSharpCourse\CSharpIntermediate\Section5\Extensibility\Extensibility\obj\Debug\Extensibility.pdb
